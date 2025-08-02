@@ -64,5 +64,3 @@ By the end of 30 days, students will have a strong foundation in Linear Algebra 
 
 ---
 Happy learning!  
-<img width="468" height="643" alt="image" src="https://github.com/user-attachments/assets/f45f8fe7-84e6-4bd4-834f-eb457fb37f72" />
-
